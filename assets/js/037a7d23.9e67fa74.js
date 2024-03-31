@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[333],{3770:(e,n,i)=>{i.r(n),i.d(n,{default:()=>s});i(959);var r=i(1527);const s=function(){return(0,r.jsx)(r.Fragment,{children:"123"})}}}]);
