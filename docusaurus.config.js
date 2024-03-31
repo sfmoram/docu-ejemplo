@@ -15,8 +15,12 @@ module.exports = {
   // eslint-disable-next-line quotes
   title: "Bruce's Wiki",
   tagline: '信じて諦めなければ、夢は必ずかなう',
+
+
   url: 'https://wiki.bruceworld.top/',
   baseUrl: '/',
+
+  
   baseUrlIssueBanner: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
